@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1511277818 source:c:\users\labdas\downloads\templatepemahamanlistdoublepointer\main.c
+	"header.h"
+
+1511277472 c:\users\labdas\downloads\templatepemahamanlistdoublepointer\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1511342908 source:c:\users\labdas\downloads\templatepemahamanlistdoublepointer\pustaka.c
+	"header.h"
+
+1511277818 source:f:\templatepemahamanlistdoublepointer\main.c
+	"header.h"
+
+1511277472 f:\templatepemahamanlistdoublepointer\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1511344646 source:f:\templatepemahamanlistdoublepointer\pustaka.c
+	"header.h"
+
